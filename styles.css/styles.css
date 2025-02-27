@@ -1,0 +1,18 @@
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">);
+
+:root{
+ --cor-principal: #2937FA;
+ --cor1: #5E28FA;
+ --cor2: #2878FA;
+ --cor3: #53C9FC;
+ --preto: #000000;
+ --branco: #ffffff;
+}
+
+
+body {
+    font-size: 1em;
+    font-family: 'montserrat'; 
+}
