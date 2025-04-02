@@ -2,16 +2,17 @@
 
 :root {
     --cor-principal: #262597;
-    --cor1: #6c6091;
-    --cor2: #f7ebff;
-    --cor3: #68baa6;
+    --cor1: #395F99;
+    --cor2: #503999;
+    --cor3: #503999;
     --preto: #000000;
     --branco: #FFFFFF;
 }
 
 body {
     font-size: 1rem;
-    font-family: 'Montserrat'; /*o nome da sua fonte*/
+    font-family: 'Montserrat';
+    /*o nome da sua fonte*/
 }
 
 #contato {
@@ -20,11 +21,11 @@ body {
     padding: 4rem 0;
 }
 
-.formulario{
+.formulario {
     background-color: var(--branco);
     padding: 2rem;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     font-weight: bold;
 }
 
